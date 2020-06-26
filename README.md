@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/VinodVutpala/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/VinodVutpala/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=19&branchName=master)
+[![Build Status](https://dev.azure.com/VinodVutpala/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status/VinodRao.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/VinodVutpala/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=17&branchName=build-pipeline)
 
 # Contributing
 
